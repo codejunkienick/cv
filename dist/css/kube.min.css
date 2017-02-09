@@ -6,9 +6,7 @@ body {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-  padding-top: 3em;
-  margin-bottom: 4em;
-  padding: 0 1em;
+  padding: 3em 1em 4em;
 }
 
 .header {
