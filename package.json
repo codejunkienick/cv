@@ -1,0 +1,9 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "nick poteryaev's cv",
+  "main": "index.html",
+  "repository": "git@github.com:codejunkienick/cv.git",
+  "author": "codejunkienick <nickdeveloper@protonmail.com>",
+  "license": "MIT"
+}
